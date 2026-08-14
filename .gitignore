@@ -1,0 +1,5 @@
+# Ignore common generated and local files
+.DS_Store
+node_modules/
+.env
+*.log
